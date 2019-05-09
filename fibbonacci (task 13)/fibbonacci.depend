@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1557288280 source:d:\embedded system\c programming\session 2\fibbonacci\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1557355058 source:d:\embedded system\c programming\session 2\tasks\fibbonacci (task 13)\main.c
+	<stdio.h>
+	<stdlib.h>
+

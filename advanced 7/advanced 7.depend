@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1557315533 source:d:\embedded system\c programming\session 2\advanced 7\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1557350935 source:d:\embedded system\c programming\session 2\tasks\advanced 7\main.c
+	<stdio.h>
+	<stdlib.h>
+
